@@ -2,4 +2,4 @@ Best model: XGBoost
 RMSE: 3.9365
 MAE: 1.3672
 R²: 0.8935
-Trained at: 2026-11-25 11:06:36.264505
+Trained at: 2026-11-26 10:44:27.581073
